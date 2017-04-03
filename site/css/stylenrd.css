@@ -1,0 +1,224 @@
+#icerik{
+	width:1024px;
+	margin:0 auto;
+	
+}
+
+#banner{
+	width:1024px;
+	height:160px;
+	background: linear-gradient(-180deg, #8d92d8, #f0e5c5);
+	margin: auto;
+	
+}
+
+.neredesinsen{
+  font-size: 60px;
+  font-family: "Georgia";
+  color: rgb(22, 72, 22);
+  font-weight: bold;
+  font-style: italic;
+  float:left;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+#evler{
+  margin-right: auto;
+  margin-left:250px;
+  margin-top: 0px;
+  width: 375px;
+  height: 153px;
+
+}
+
+#solkisim{
+  background-color: rgb(240, 229, 197);
+  margin-left:0;
+  margin-right:0 auto;
+  margin-top: 0px;
+  width: 512px;
+  height: 480px;
+  float: left;
+
+}
+#solframe{
+  border-width: 3.8px;
+  border-color: rgb(227, 6, 19);
+  border-style: dashed;
+  float:left;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 492px;
+  height: 460px;
+} 
+#sehirframe {
+  border-width: 3px;
+  border-color: #e30513;
+  border-style: dotted;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 240px;
+  height: 50px;
+  font-size: 15px;
+  font-family: Bookman Old Style;
+  color: rgb(183, 169, 164);
+  font-weight: bold;
+  font-style: italic;
+  float: left;
+ 
+}	
+.yazi {
+  font-size: 15px;
+  font-family: Bookman Old Style;
+  color: rgb(183, 169, 164);
+  font-weight: bold;
+  font-style: italic;
+  float: left;
+  text-align: right;
+  margin: auto;
+  vertical-align: middle;
+  text-align: center;
+  padding-top:10px;
+  padding-left: 5px;
+}
+
+#firmaframe{
+  border-width: 3px;
+  border-color: #e30513;
+  border-style: dotted;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 92px;
+  width: 240px;
+  height: 50px;
+  font-size: 15px;
+  font-family: Bookman Old Style;
+  color: rgb(183, 169, 164);
+  font-weight: bold;
+  font-style: italic;
+ 
+  float: left;
+}
+#siparisframe{
+  border-width: 3px;
+  border-color: #e30513;
+  border-style: dotted;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 172px;
+  width: 240px;
+  height: 49px;
+  font-size: 15px;
+  font-family: Bookman Old Style;
+  color: rgb(183, 169, 164);
+  font-weight: bold;
+  font-style: italic;
+  float:left;
+  text-align:left;
+-webkit-transition: opacity 0.5s;
+}
+
+textarea:focus::-webkit-input-placeholder, input:focus::-webkit-input-placeholder  { 
+    opacity: 0;
+}
+
+
+
+#tamambutton{
+  border-width: 2px;
+  border-style: linear-gradient;
+  border-color: #e30613;
+  border-radius: 5px;
+  background-color: rgb(0, 150, 64);
+  position: absolute;
+  margin-left:165px;
+  margin-top: 228px;
+  width: 85px;
+  height: 30px;
+  font-size: 14px;
+  font-family: Bookman Old Style;
+  font-weight: bold;
+  font-style: regular;
+  color: rgb(22, 72, 22);
+  text-align: center;
+  
+}
+#onaybox {
+  border-width: 3px;
+  border-color: #e30513;
+  border-style: dotted;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  margin-left: 260px;
+  margin-top: -7px;
+  width: 220px;
+  height: 250px;
+}
+#aciklamabox {
+  border-width: 3px;
+  border-color: rgb(22, 72, 22);
+  border-style: dotted;
+  background-color: rgb(246, 190, 171);
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 300px;
+  width: 240px;
+  height: 80px;
+  
+}
+.bul{
+  font-size: 40px;
+  font-family: Bookman Old Style;
+  font-weight: bold;
+  text-align:center;
+  color: rgb(22, 72, 22);
+  
+}
+#bulbutton{
+  border-width: 15px;
+  border-style: dashed;
+  border-color: rgb(22, 72, 22);
+  border-radius: 75px;
+  background-color: rgb(246, 190, 171);
+  margin-left:310px;
+  margin-top: 280px;
+  width: 100px;
+  height: 100px;
+  text-align: center;  
+  line-height: 85px;
+  -webkit-border-radius:75px;
+}
+
+
+#sagkisim{
+  background-color: rgb(240, 229, 197);
+  margin-left:0 auto;
+  margin-right:0 auto;
+  margin-top: 0px;
+  width: 512px;
+  height: 480px;
+  float: right;
+}
+#sagframe{
+  border-width: 3.8px;
+  border-color: rgb(227, 6, 19);
+  border-style: dashed;
+  float:right;
+  margin-right: 10px;
+  margin-top: 10px;
+  width: 492px;
+  height: 460px;
+}
+#map{
+     
+        width: 492px;
+		height: 460px;
+       
+}
+
+
+
