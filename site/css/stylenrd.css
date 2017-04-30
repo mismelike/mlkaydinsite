@@ -54,7 +54,7 @@
 } 
 #sehirframe {
   border-width: 3px;
-  border-color: #e30513;
+  border-color: #d0c7ac;
   border-style: dotted;
   background-color: rgb(255, 255, 255);
   position: absolute;
@@ -87,7 +87,7 @@
 
 #firmaframe{
   border-width: 3px;
-  border-color: #e30513;
+  border-color: #d0c7ac;
   border-style: dotted;
   background-color: rgb(255, 255, 255);
   position: absolute;
@@ -105,7 +105,7 @@
 }
 #siparisframe{
   border-width: 3px;
-  border-color: #e30513;
+  border-color: #d0c7ac;
   border-style: dotted;
   background-color: rgb(255, 255, 255);
   position: absolute;
@@ -150,7 +150,7 @@ textarea:focus::-webkit-input-placeholder, input:focus::-webkit-input-placeholde
 }
 #onaybox {
   border-width: 3px;
-  border-color: #e30513;
+  border-color: #d0c7ac;
   border-style: dotted;
   background-color: rgb(255, 255, 255);
   position: absolute;
@@ -181,7 +181,7 @@ textarea:focus::-webkit-input-placeholder, input:focus::-webkit-input-placeholde
 }
 #bulbutton{
   border-width: 15px;
-  border-style: dashed;
+  border-style: dotted;
   border-color: rgb(22, 72, 22);
   border-radius: 75px;
   background-color: rgb(246, 190, 171);
