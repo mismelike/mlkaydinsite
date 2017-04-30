@@ -44,6 +44,7 @@
 #solframe{
   border-width: 3.8px;
   border-color: rgb(227, 6, 19);
+  border-right-color: rgb(240, 229, 197);
   border-style: dashed;
   float:left;
   margin-left: 10px;
